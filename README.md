@@ -1,2 +1,2 @@
 # strawhatAravind.github.io
-learning...
+Python developer and Electronics & communication engineer.
