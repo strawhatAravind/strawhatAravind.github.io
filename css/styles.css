@@ -1,9 +1,24 @@
 .header{
 	background-image: url("images/bgnd.jpg");
+	background-repeat: repeat-x;
+	text-align: center;
 }
 
 .quote{
 	text-align: center;
 	color: gray;
 	font-style: italic;
+}
+
+.content{
+	background-color: #e7e6e1;
+}
+
+.name{
+	text-shadow: 5px 5px 15px white;
+}
+
+.ruler{
+	margin: 0%;
+	border-top: solid;
 }
