@@ -1,4 +1,14 @@
 body{
+    background-color: #3282b8;
+}
+
+#name{
+    color: white;
+}
+
+#about{
+    width: 15rem;
+    height: 17rem;
     background-color: #0f4c75;
-    color: #bbe1fa;
+    color: white;  
 }
